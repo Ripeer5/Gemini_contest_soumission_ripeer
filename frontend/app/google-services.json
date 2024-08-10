@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1044252327327",
+    "project_id": "gemini-465da",
+    "storage_bucket": "gemini-465da.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1044252327327:android:91a05ad9541c15e307d1aa",
+        "android_client_info": {
+          "package_name": "fr.artalk.ripeer"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "INSERT_KEY_HERE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

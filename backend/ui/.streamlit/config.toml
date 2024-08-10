@@ -1,0 +1,13 @@
+[theme]
+primaryColor = "#4CAF50"
+backgroundColor = "#FFFFFF"
+secondaryBackgroundColor = "#F0F0F0"
+textColor = "#000000"
+font = "sans serif"
+
+[server]
+port = 8501  # Changez le port par défaut de 8501 à 8502
+headless = true  # Empêche l'ouverture automatique du navigateur
+[browser]
+serverAddress = "localhost"  # Utilisez localhost pour le test initial
+serverPort = 8502
